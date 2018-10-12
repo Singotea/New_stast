@@ -1,1 +1,1 @@
-new OBJ_stat
+new `OBJ_stat`
